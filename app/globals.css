@@ -1,0 +1,10 @@
+/* Minimal reset so Framer styles (styles.css) control the look */
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
